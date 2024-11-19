@@ -6,4 +6,4 @@ for num in numbers:
     if num > max_value:
         max_value = num
 
-print("The maximum value in the list is:", max_value)
+print(f"The maximum value in the list is: {max_value}")
