@@ -1,4 +1,3 @@
-# تحديد النطاق
 start = int(input("Enter the starting number of the range: "))
 end = int(input("Enter the ending number of the range: "))
 def is_prime(num):
